@@ -36,5 +36,5 @@ pip install cvzone
 This script assumes that you have a file named `send.py` which contains a function `sendSms()` for sending an SMS. You need to provide this file and function yourself.
 
 ## License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the GNU GPL-3.
 
